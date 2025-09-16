@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Sorvete",
+    "price": 15,
+    "sku": "2233352312",
+    "description": ""
+  },
+  {
+    "id": 2,
+    "name": "Refrigerante",
+    "price": 7,
+    "sku": "8890123456",
+    "description": ""
+  },
+  {
+    "id": 3,
+    "name": "Chocolate",
+    "price": 12.5,
+    "sku": "5598764321",
+    "description": ""
+  },
+  {
+    "id": 4,
+    "name": "Biscoito",
+    "price": 5.75,
+    "sku": "7744123987",
+    "description": ""
+  },
+  {
+    "id": 5,
+    "name": "Suco Natural",
+    "price": 9.9,
+    "sku": "6655432109",
+    "description": ""
+  },
+  {
+    "id": 6,
+    "name": "Café em Pó",
+    "price": 18,
+    "sku": "9988776655",
+    "description": ""
+  },
+  {
+    "id": 7,
+    "name": "Pão de Forma",
+    "price": 6.4,
+    "sku": "1122334455",
+    "description": ""
+  },
+  {
+    "id": 8,
+    "name": "Pão de Queijo",
+    "price": 10.5,
+    "sku": "1122334495",
+    "description": ""
+  }
+]
